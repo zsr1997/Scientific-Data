@@ -17,14 +17,6 @@ You can download the dataset from the DOI link above and place it in the appropr
   - Normalization techniques
   - Principal Component Analysis (PCA) for dimensionality reduction and feature exploration
 
----
-
-## 📌 Dataset Access
-
-The dataset is publicly available and can be accessed through the following DOI:  
-**[https://doi.org/your-doi-here](https://doi.org/your-doi-here)**
-
-
 
 ## 📊 Notebook Overview
 
